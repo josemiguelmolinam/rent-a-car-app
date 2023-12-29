@@ -5,11 +5,6 @@ import { Footer, NavBar } from '../components';
 export const metadata = {
   title: 'Prestige Drive Rentals',
   description: 'Drive your dreams',
-  icons:{
-    icon:['/favicon.ico?v=4'],
-    apple:['/icon-car.png'],
-    shortcut:['/icon-car.png']
-  }
 };
 
 export default function RootLayout({
