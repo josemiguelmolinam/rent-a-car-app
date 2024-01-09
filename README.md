@@ -21,10 +21,11 @@ A simple car rental application developed with React, Next.js, TypeScript, and T
 ## Screenshots
 
 ![Screenshot 1](https://i.imgur.com/mRGPqgO.png)
-*Home page with the list of available cars*
+*Home page*
 
 ![Screenshot 2](https://i.imgur.com/Etd4594.png)
-*Description for the second screenshot*
+*Car catalog page*
 
 ![Screenshot 3](https://i.imgur.com/Rw9mj52.png)
-*Description for the third screenshot*
+*Car information*
+
