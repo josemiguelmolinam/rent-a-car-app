@@ -1,6 +1,6 @@
 # <p align="center"><span style="color: grey; font-size: 2em;">Rent a Car App</span></p>
 
-![Rent-A-Car Logo](https://i.imgur.com/2UrQga4.png)
+![Screenshot 1](https://i.imgur.com/mRGPqgO.png)
 
 A simple car rental application developed with React, Next.js, TypeScript, and Tailwind CSS.
 
@@ -17,7 +17,7 @@ A simple car rental application developed with React, Next.js, TypeScript, and T
 - TypeScript
 - Tailwind CSS
 
-## Screenshots
 
-![Screenshot 1](https://i.imgur.com/mRGPqgO.png)
-*Home page screenshot*
+
+
+
